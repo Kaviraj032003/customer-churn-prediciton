@@ -55,10 +55,6 @@ Feel free to customize the project according to your preferences:
 - Adjust model parameters: Experiment with different classification algorithms and hyperparameters in the `customer_churn_prediction.py` script.
 - Enhance feature engineering: Explore additional features or transformations to improve model accuracy.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - The dataset used in this project is sourced from [provide_source_link_here].
